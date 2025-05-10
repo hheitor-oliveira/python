@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5abfc1b-21eb-4455-aec9-6434a4c5c889" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/aulas/aula06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/desafios/desafio001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/desafios/desafio002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/exercicios/ex001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/exercicios/ex002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/pythontest/teste001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/pythontest/teste002.py" afterDir="false" />
+    <list default="true" id="e5abfc1b-21eb-4455-aec9-6434a4c5c889" name="Changes" comment="Primeiros passos nos estudos de Python">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="fa72a552-d80d-4439-bcd2-3830dfa43b9c" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2wtBBCfjSyz8P8nXPiFM8vzgrWH" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -45,35 +36,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.aula06.executor": "Run",
-    "Python.desafio001.executor": "Run",
-    "Python.ex001.executor": "Run",
-    "Python.ex002.executor": "Run",
-    "Python.teste001.executor": "Run",
-    "Python.teste002.executor": "Run",
-    "Python.teste01.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.aula06.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste01.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\Documents\Heitor\python\pythonstudys\exercicios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.desafio001">
+  <component name="RunManager" selected="Python.aula06">
     <configuration name="aula06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
@@ -207,6 +200,9 @@
       </set>
     </attachedChunks>
   </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\User\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="e5abfc1b-21eb-4455-aec9-6434a4c5c889" name="Changes" comment="" />
@@ -214,20 +210,58 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746850851844</updated>
-      <workItem from="1746850853023" duration="4085000" />
+      <workItem from="1746850853023" duration="4492000" />
+      <workItem from="1746855431267" duration="364000" />
+      <workItem from="1746855816050" duration="585000" />
+      <workItem from="1746856419936" duration="293000" />
+      <workItem from="1746919026139" duration="3000" />
+      <workItem from="1746921201073" duration="2000" />
     </task>
+    <task id="LOCAL-00001" summary="Primeiros passos nos estudos de Python">
+      <option name="closed" value="true" />
+      <created>1746855350697</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746855350697</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Primeiros passos nos estudos de Python">
+      <option name="closed" value="true" />
+      <created>1746855451344</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746855451344</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeiros passos nos estudos de Python" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiros passos nos estudos de Python" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python$teste002.coverage" NAME="teste002 Coverage Results" MODIFIED="1746854470521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/pythontest" />
-    <SUITE FILE_PATH="coverage/python$desafio001.coverage" NAME="desafio001 Coverage Results" MODIFIED="1746854965732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/desafios" />
+    <SUITE FILE_PATH="coverage/python$desafio001.coverage" NAME="desafio001 Coverage Results" MODIFIED="1746855085164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/desafios" />
     <SUITE FILE_PATH="coverage/python$ex002.coverage" NAME="ex002 Coverage Results" MODIFIED="1746852839848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys" />
     <SUITE FILE_PATH="coverage/python$teste01.coverage" NAME="teste01 Coverage Results" MODIFIED="1746850923101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
     <SUITE FILE_PATH="coverage/python$aula06.coverage" NAME="aula06 Coverage Results" MODIFIED="1746853512010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/aulas" />
     <SUITE FILE_PATH="coverage/python$ex001.coverage" NAME="ex001 Coverage Results" MODIFIED="1746851800481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys" />
     <SUITE FILE_PATH="coverage/python$teste001.coverage" NAME="teste001 Coverage Results" MODIFIED="1746853905773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/pythontest" />
+    <SUITE FILE_PATH="coverage/python$desafio002.coverage" NAME="desafio002 Coverage Results" MODIFIED="1746855273233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/desafios" />
   </component>
 </project>
