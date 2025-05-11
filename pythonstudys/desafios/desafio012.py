@@ -1,1 +1,6 @@
-print
+print('Desconto de porcentagem')
+produto = float(input('Qual é o preço do produto? '))
+print(f'O preço atual é de produto é R${produto}')
+desconto = float(input('De quanto será o desconto do produto? '))
+promocao = (produto * (desconto / 100))
+print(f'Com o desconto de %{desconto}, o preço atual será R${promocao}!')

@@ -1,0 +1,6 @@
+print('Aumento de Porcentagem')
+salario = float(input('Qual é o salário do funcionário? '))
+print(f'O salário atual do funcionário é de R${salario:.2f}')
+porcentagem = float(input('Quantos porcento de aumento? '))
+aumento = salario * (porcentagem / 100)
+print(f'Após o aumento, o salário do funcionário irá ser {salario + aumento:.2f}')
