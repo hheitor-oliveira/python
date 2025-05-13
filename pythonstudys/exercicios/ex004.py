@@ -1,4 +1,4 @@
-print('===== DESAFIO 002 =====')
+print('===== EXERCÍCIO 004 =====')
 valor1 = input('Digite algo ao lado: ')
 print(f'O tipo primitivo do valor acima é: {type(valor1)}')
 print(f'Só tem espaços? {valor1.isspace()}')

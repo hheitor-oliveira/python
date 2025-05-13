@@ -1,4 +1,4 @@
-print('===== DESAFIO 001 =====')
+print('===== EXERCÍCIO 03 =====')
 print('Faça uma soma entre dois números')
 n1 = int(input("Digite um número para a soma: "))
 n2 = int(input("Digite outro número para a soma: "))

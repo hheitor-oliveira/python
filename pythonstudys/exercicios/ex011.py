@@ -1,6 +1,6 @@
 from traceback import print_tb
 
-print('='*10,'DESAFIO 011','='*10)
+print('='*10,'EXERCÍCIO 011','='*10)
 print('Calcular quantidade de tinta')
 largura = float(input('Largura da parede: '))
 altura = float(input('Altura da parede: '))

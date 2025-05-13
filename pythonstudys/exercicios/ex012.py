@@ -1,3 +1,4 @@
+print('===== EXERCÍCIO 012 =====')
 print('Desconto de porcentagem')
 produto = float(input('Qual é o preço do produto? '))
 print(f'O preço atual é de produto é R${produto}')

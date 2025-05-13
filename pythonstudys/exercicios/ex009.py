@@ -1,4 +1,4 @@
-print('===== DESAFIO 009 =====')
+print('===== EXERCÍCIO 009 =====')
 print('Tabuada')
 n1 = int(input('Digite um número: '))
 print(f'{n1} x 1 = {n1*1}')

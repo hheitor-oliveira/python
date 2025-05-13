@@ -1,0 +1,6 @@
+print('Exercício 015')
+dias = float(input('Quantos dias foram alugados? '))
+km = float(input('Quantos Km foram rodados com o carro? '))
+valor_dia = (dias * 60)
+valor_km = (km * 0.15)
+print(f'O preço abn  pagar pelo aluguel do carro é então de R${valor_dia + valor_km:.2f}')

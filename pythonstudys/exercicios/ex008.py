@@ -1,4 +1,4 @@
-print('===== DESAFIO 008 =====')
+print('===== EXERCÍCIO 008 =====')
 print('Conversor de metros em centímetros e milímetros')
 metros = int(input('Digite uma metragem ao lado: '))
 print(f'Conversor em centímetros: {metros*100}cm')

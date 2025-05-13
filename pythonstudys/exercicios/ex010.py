@@ -1,4 +1,4 @@
-print('===== DESAFIO 010 =====')
+print('===== EXERCÍCIO 010 =====')
 print('Contador de dinheiro')
 saldo_reais = int(input('Quanto dinheiro você tem na carteira? R$'))
 print(f'Com {saldo_reais}R$ você pode comprar {saldo_reais/5.6530:.3f}US$1')
