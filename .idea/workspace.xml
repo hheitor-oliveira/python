@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5abfc1b-21eb-4455-aec9-6434a4c5c889" name="Changes" comment="Primeiros passos nos estudos de Python">
-      <change afterPath="$PROJECT_DIR$/pythonstudys/aulas/fase09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/exercicios/ex022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/exercicios/ex023.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/exercicios/ex024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/exercicios/ex025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/exercicios/ex026.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/exercicios/ex027.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/pythontest/teste09.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonstudys/exercicios/ex023.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonstudys/exercicios/ex023.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +39,9 @@
     &quot;accountId&quot;: &quot;fa72a552-d80d-4439-bcd2-3830dfa43b9c&quot;
   }
 }</component>
+  <component name="LLMProjectSettings">
+    <option name="turned_on" value="false" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -57,59 +53,59 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.aula06.executor": "Run",
-    "Python.aula07.executor": "Run",
-    "Python.desafio001.executor": "Run",
-    "Python.desafio002.executor": "Run",
-    "Python.desafio003.executor": "Run",
-    "Python.desafio004.executor": "Run",
-    "Python.desafio007.executor": "Run",
-    "Python.desafio008.executor": "Run",
-    "Python.desafio009.executor": "Run",
-    "Python.desafio010.executor": "Run",
-    "Python.desafio011.executor": "Run",
-    "Python.desafio012.executor": "Run",
-    "Python.desafio013.executor": "Run",
-    "Python.ex001.executor": "Run",
-    "Python.ex002.executor": "Run",
-    "Python.ex014.executor": "Run",
-    "Python.ex015.executor": "Run",
-    "Python.ex016.executor": "Run",
-    "Python.ex018.executor": "Run",
-    "Python.ex019.executor": "Run",
-    "Python.ex020.executor": "Run",
-    "Python.ex021.executor": "Run",
-    "Python.ex022.executor": "Run",
-    "Python.ex023.executor": "Run",
-    "Python.ex024.executor": "Run",
-    "Python.ex025.executor": "Run",
-    "Python.ex026.executor": "Run",
-    "Python.ex027.executor": "Run",
-    "Python.fase08.executor": "Run",
-    "Python.fase09.executor": "Run",
-    "Python.teste001.executor": "Run",
-    "Python.teste002.executor": "Run",
-    "Python.teste003.executor": "Run",
-    "Python.teste01.executor": "Run",
-    "Python.teste09.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/User/Documents/Heitor/python/pythonstudys/exercicios",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.aula06.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula07.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex015.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex019.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex020.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex021.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex022.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex023.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex025.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex026.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex027.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fase08.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fase09.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste09.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Documents/Heitor/python/pythonstudys/exercicios&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User\Documents\Heitor\python\pythonstudys\exercicios" />
@@ -278,6 +274,7 @@
       <workItem from="1747177904604" duration="6343000" />
       <workItem from="1747189982844" duration="1000" />
       <workItem from="1747190001920" duration="4066000" />
+      <workItem from="1747334331441" duration="2253000" />
     </task>
     <task id="LOCAL-00001" summary="Primeiros passos nos estudos de Python">
       <option name="closed" value="true" />
@@ -343,9 +340,9 @@
     <SUITE FILE_PATH="coverage/python$teste01.coverage" NAME="teste01 Coverage Results" MODIFIED="1746850923101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
     <SUITE FILE_PATH="coverage/python$desafio003.coverage" NAME="desafio003 Coverage Results" MODIFIED="1746937914999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/desafios" />
     <SUITE FILE_PATH="coverage/python$desafio012.coverage" NAME="desafio012 Coverage Results" MODIFIED="1746942405789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/desafios" />
-    <SUITE FILE_PATH="coverage/desafio008_py$ex002.coverage" NAME="ex002 Coverage Results" MODIFIED="1747191271995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys" />
+    <SUITE FILE_PATH="coverage/desafio008_py$ex002.coverage" NAME="ex002 Coverage Results" MODIFIED="1747334403721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys" />
     <SUITE FILE_PATH="coverage/desafio008_py$desafio011.coverage" NAME="desafio011 Coverage Results" MODIFIED="1746974490578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/desafios" />
-    <SUITE FILE_PATH="coverage/desafio008_py$ex023.coverage" NAME="ex023 Coverage Results" MODIFIED="1747193944661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/exercicios" />
+    <SUITE FILE_PATH="coverage/desafio008_py$ex023.coverage" NAME="ex023 Coverage Results" MODIFIED="1747336486359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/exercicios" />
     <SUITE FILE_PATH="coverage/desafio008_py$ex020.coverage" NAME="ex020 Coverage Results" MODIFIED="1747101880067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/exercicios" />
     <SUITE FILE_PATH="coverage/python$ex001.coverage" NAME="ex001 Coverage Results" MODIFIED="1746851800481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys" />
     <SUITE FILE_PATH="coverage/python$teste002.coverage" NAME="teste002 Coverage Results" MODIFIED="1746854470521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/pythontest" />
