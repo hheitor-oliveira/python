@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e5abfc1b-21eb-4455-aec9-6434a4c5c889" name="Changes" comment="Primeiros passos nos estudos de Python">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonstudys/exercicios/ex023.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonstudys/exercicios/ex023.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,13 +95,13 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Documents/Heitor/python/pythonstudys/exercicios&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Documents/Heitor/python&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.language.and.region&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -114,7 +113,7 @@
       <recent name="C:\Users\User\Documents\Heitor\python\pythonstudys\exercicios" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.ex002">
     <configuration name="ex002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
@@ -274,7 +273,10 @@
       <workItem from="1747177904604" duration="6343000" />
       <workItem from="1747189982844" duration="1000" />
       <workItem from="1747190001920" duration="4066000" />
-      <workItem from="1747334331441" duration="2253000" />
+      <workItem from="1747334331441" duration="2269000" />
+      <workItem from="1747336793466" duration="498000" />
+      <workItem from="1747337309371" duration="244000" />
+      <workItem from="1747337568128" duration="879000" />
     </task>
     <task id="LOCAL-00001" summary="Primeiros passos nos estudos de Python">
       <option name="closed" value="true" />
