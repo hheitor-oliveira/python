@@ -4,7 +4,8 @@
 # Quantas letras ao todo (sem considerar os espaços)
 # Quantas letras tem o primeiro nome.
 
-nome = input('Digite o seu nome completo: ')
+nome = str(input('Digite o seu nome completo: '))
+print('Analisando seu nome...')
 print(f'O nome escrito apenas em letras maiúsculas é: {nome.upper()}')
 print(f'O nome escrito apenas em letras minúsculas é: {nome.lower()}')
 nospace = nome.replace(' ', '')
