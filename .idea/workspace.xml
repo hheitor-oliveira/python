@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5abfc1b-21eb-4455-aec9-6434a4c5c889" name="Changes" comment="Primeiros passos nos estudos de Python">
-      <change afterPath="$PROJECT_DIR$/pythonstudys/aulas/fase10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/exercicios/ex028.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/exercicios/ex029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/exercicios/ex030.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/exercicios/ex031.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/exercicios/ex032.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/exercicios/ex033.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/exercicios/ex034.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/exercicios/ex035.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/pythontest/teste10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonstudys/pythontest/teste001.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonstudys/pythontest/teste01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonstudys/pythontest/teste003.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonstudys/pythontest/teste08.py" afterDir="false" />
-    </list>
+    <list default="true" id="e5abfc1b-21eb-4455-aec9-6434a4c5c889" name="Changes" comment="Primeiros passos nos estudos de Python" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -300,7 +286,7 @@
       <workItem from="1747337309371" duration="244000" />
       <workItem from="1747337568128" duration="911000" />
       <workItem from="1747339433411" duration="1674000" />
-      <workItem from="1747519693129" duration="9602000" />
+      <workItem from="1747519693129" duration="9627000" />
     </task>
     <task id="LOCAL-00001" summary="Primeiros passos nos estudos de Python">
       <option name="closed" value="true" />
