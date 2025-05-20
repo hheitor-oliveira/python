@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5abfc1b-21eb-4455-aec9-6434a4c5c889" name="Changes" comment="Primeiros passos nos estudos de Python">
-      <change afterPath="$PROJECT_DIR$/pythonstudys/aulas/fase12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/exercicios/ex036.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/exercicios/ex037.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/exercicios/ex038.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/exercicios/ex039.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/exercicios/ex040.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/exercicios/ex041.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/exercicios/ex042.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/exercicios/ex043.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/exercicios/ex044.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonstudys/exercicios/ex045.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonstudys/exercicios/ex037.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonstudys/exercicios/ex037.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonstudys/exercicios/ex042.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonstudys/exercicios/ex042.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonstudys/exercicios/ex043.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonstudys/exercicios/ex043.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonstudys/exercicios/ex044.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonstudys/exercicios/ex044.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonstudys/exercicios/ex045.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonstudys/exercicios/ex045.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,10 +103,15 @@
     "Python.ex034.executor": "Run",
     "Python.ex035.executor": "Run",
     "Python.ex036.executor": "Run",
+    "Python.ex037.executor": "Run",
     "Python.ex038.executor": "Run",
     "Python.ex039.executor": "Run",
     "Python.ex040.executor": "Run",
     "Python.ex041.executor": "Run",
+    "Python.ex042.executor": "Run",
+    "Python.ex043.executor": "Run",
+    "Python.ex044.executor": "Run",
+    "Python.ex045.executor": "Run",
     "Python.fase08.executor": "Run",
     "Python.fase09.executor": "Run",
     "Python.fase10.executor": "Run",
@@ -315,6 +314,7 @@
       <workItem from="1747592246695" duration="5930000" />
       <workItem from="1747606455316" duration="2638000" />
       <workItem from="1747610400892" duration="8559000" />
+      <workItem from="1747765726136" duration="8053000" />
     </task>
     <task id="LOCAL-00001" summary="Primeiros passos nos estudos de Python">
       <option name="closed" value="true" />
@@ -372,11 +372,13 @@
     <SUITE FILE_PATH="coverage/desafio008_py$ex016.coverage" NAME="ex016 Coverage Results" MODIFIED="1747100374392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/exercicios" />
     <SUITE FILE_PATH="coverage/desafio008_py$ex007.coverage" NAME="ex007 Resultados de Cobertura" MODIFIED="1747607523437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/exercicios" />
     <SUITE FILE_PATH="coverage/desafio008_py$ex031.coverage" NAME="ex031 Resultados de Cobertura" MODIFIED="1747527851322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/exercicios" />
+    <SUITE FILE_PATH="coverage/desafio008_py$ex043.coverage" NAME="ex043 Resultados de Cobertura" MODIFIED="1747770725434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/exercicios" />
     <SUITE FILE_PATH="coverage/desafio008_py$ex014.coverage" NAME="ex014 Coverage Results" MODIFIED="1747097093569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/exercicios" />
     <SUITE FILE_PATH="coverage/python$desafio003.coverage" NAME="desafio003 Coverage Results" MODIFIED="1746937914999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/desafios" />
-    <SUITE FILE_PATH="coverage/desafio008_py$ex002.coverage" NAME="ex002 Resultados de Cobertura" MODIFIED="1747606698397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/exercicios" />
+    <SUITE FILE_PATH="coverage/desafio008_py$ex002.coverage" NAME="ex002 Resultados de Cobertura" MODIFIED="1747765760161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys" />
     <SUITE FILE_PATH="coverage/desafio008_py$desafio011.coverage" NAME="desafio011 Coverage Results" MODIFIED="1746974490578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/desafios" />
     <SUITE FILE_PATH="coverage/desafio008_py$ex020.coverage" NAME="ex020 Coverage Results" MODIFIED="1747101880067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/exercicios" />
+    <SUITE FILE_PATH="coverage/desafio008_py$ex037.coverage" NAME="ex037 Resultados de Cobertura" MODIFIED="1747768149198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/exercicios" />
     <SUITE FILE_PATH="coverage/desafio008_py$fase12.coverage" NAME="fase12 Resultados de Cobertura" MODIFIED="1747610585288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/aulas" />
     <SUITE FILE_PATH="coverage/desafio008_py$ex038.coverage" NAME="ex038 Resultados de Cobertura" MODIFIED="1747619476077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/exercicios" />
     <SUITE FILE_PATH="coverage/python$desafio007.coverage" NAME="desafio007 Coverage Results" MODIFIED="1746939905080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/desafios" />
@@ -385,22 +387,25 @@
     <SUITE FILE_PATH="coverage/desafio008_py$ex032.coverage" NAME="ex032 Resultados de Cobertura" MODIFIED="1747594250126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/exercicios" />
     <SUITE FILE_PATH="coverage/desafio008_py$ex026.coverage" NAME="ex026 Resultados de Cobertura" MODIFIED="1747342389258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/exercicios" />
     <SUITE FILE_PATH="coverage/python$desafio002.coverage" NAME="desafio002 Coverage Results" MODIFIED="1746933680931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/desafios" />
+    <SUITE FILE_PATH="coverage/desafio008_py$ex044.coverage" NAME="ex044 Resultados de Cobertura" MODIFIED="1747772163899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/exercicios" />
     <SUITE FILE_PATH="coverage/desafio008_py$ex003.coverage" NAME="ex003 Resultados de Cobertura" MODIFIED="1747606749662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/exercicios" />
     <SUITE FILE_PATH="coverage/desafio008_py$ex027.coverage" NAME="ex027 Coverage Results" MODIFIED="1747193464897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/exercicios" />
     <SUITE FILE_PATH="coverage/desafio008_py$ex024.coverage" NAME="ex024 Resultados de Cobertura" MODIFIED="1747342160910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/exercicios" />
     <SUITE FILE_PATH="coverage/desafio008_py$ex021.coverage" NAME="ex021 Coverage Results" MODIFIED="1747103248128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/exercicios" />
-    <SUITE FILE_PATH="coverage/desafio008_py$ex036.coverage" NAME="ex036 Resultados de Cobertura" MODIFIED="1747615351627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/exercicios" />
+    <SUITE FILE_PATH="coverage/desafio008_py$ex036.coverage" NAME="ex036 Resultados de Cobertura" MODIFIED="1747765768573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/exercicios" />
     <SUITE FILE_PATH="coverage/desafio008_py$ex030.coverage" NAME="ex030 Resultados de Cobertura" MODIFIED="1747526682616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/exercicios" />
     <SUITE FILE_PATH="coverage/desafio008_py$ex015.coverage" NAME="ex015 Coverage Results" MODIFIED="1747097426895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/exercicios" />
     <SUITE FILE_PATH="coverage/python$desafio008.coverage" NAME="desafio008 Coverage Results" MODIFIED="1746939916696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/desafios" />
     <SUITE FILE_PATH="coverage/desafio008_py$ex033.coverage" NAME="ex033 Resultados de Cobertura" MODIFIED="1747528178632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/exercicios" />
+    <SUITE FILE_PATH="coverage/desafio008_py$ex042.coverage" NAME="ex042 Resultados de Cobertura" MODIFIED="1747769663376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/exercicios" />
     <SUITE FILE_PATH="coverage/desafio008_py$desafio012.coverage" NAME="desafio012 Coverage Results" MODIFIED="1746975758822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/desafios" />
     <SUITE FILE_PATH="coverage/desafio008_py$ex018.coverage" NAME="ex018 Coverage Results" MODIFIED="1747102644958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/exercicios" />
     <SUITE FILE_PATH="coverage/desafio008_py$fase10.coverage" NAME="fase10 Resultados de Cobertura" MODIFIED="1747523279045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/aulas" />
+    <SUITE FILE_PATH="coverage/desafio008_py$ex045.coverage" NAME="ex045 Resultados de Cobertura" MODIFIED="1747774671517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/exercicios" />
     <SUITE FILE_PATH="coverage/desafio008_py$fase09.coverage" NAME="fase09 Coverage Results" MODIFIED="1747182802448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/aulas" />
     <SUITE FILE_PATH="coverage/python$aula06.coverage" NAME="aula06 Coverage Results" MODIFIED="1746934191105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/aulas" />
     <SUITE FILE_PATH="coverage/desafio008_py$teste003.coverage" NAME="teste003 Coverage Results" MODIFIED="1747099699026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/pythontest" />
-    <SUITE FILE_PATH="coverage/desafio008_py$ex039.coverage" NAME="ex039 Resultados de Cobertura" MODIFIED="1747620074392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/exercicios" />
+    <SUITE FILE_PATH="coverage/desafio008_py$ex039.coverage" NAME="ex039 Resultados de Cobertura" MODIFIED="1747768265362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/exercicios" />
     <SUITE FILE_PATH="coverage/desafio008_py$ex040.coverage" NAME="ex040 Resultados de Cobertura" MODIFIED="1747620559479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/exercicios" />
     <SUITE FILE_PATH="coverage/python$desafio009.coverage" NAME="desafio009 Coverage Results" MODIFIED="1746939923169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonstudys/desafios" />
     <SUITE FILE_PATH="coverage/python$teste01.coverage" NAME="teste01 Coverage Results" MODIFIED="1746850923101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
