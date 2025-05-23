@@ -1,0 +1,13 @@
+# FAÇA UM PROGRAMA QUE MOSTE NA TELA UMA CONTAGEM RGRESSIVA PARA O ESTOURO DE FOGOS DE ARTIFÍCIO
+# INDO DE 10 ATÉ 0, COM UMA PAUSA DE 1 SEGUNDO ENTRE ELES.
+
+from time import sleep
+
+print('=' * 20)
+print('DESAFIO 46 - CONTAGEM REGRESSIVA')
+print('=' * 20)
+
+for n in range(10, 0, -1):
+    print(f'FALTAM {n} PARA OS FOGOS DE ARTIFÍCIO ESTOURAREM!')
+    sleep(1)
+print('\033[31mBOOOOOOOMMMM!!!!')
