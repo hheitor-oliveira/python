@@ -1,4 +1,4 @@
 # CRIE UM PROGRAMA QUE MOSTRE NA TELA TODOS OS NÚMEROS PARES QUE ESTÃO NO INTERVALO DE 1 E
 
-for n in range(0, 51, 2):
+for n in range(2, 51, 2):
     print(n)
